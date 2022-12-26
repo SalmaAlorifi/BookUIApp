@@ -11,6 +11,8 @@
 		8AFE16FD2947A93600077953 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE16FC2947A93600077953 /* ContentView.swift */; };
 		8AFE16FF2947A93700077953 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8AFE16FE2947A93700077953 /* Assets.xcassets */; };
 		8AFE17022947A93700077953 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8AFE17012947A93700077953 /* Preview Assets.xcassets */; };
+		8AFE170D2947A9CC00077953 /* BooK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE170C2947A9CC00077953 /* BooK.swift */; };
+		8AFE17102947A9EB00077953 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE170F2947A9EB00077953 /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		8AFE16FC2947A93600077953 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8AFE16FE2947A93700077953 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8AFE17012947A93700077953 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8AFE170C2947A9CC00077953 /* BooK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooK.swift; sourceTree = "<group>"; };
+		8AFE170F2947A9EB00077953 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				8AFE16FA2947A93600077953 /* BookUIAppApp.swift */,
 				8AFE16FC2947A93600077953 /* ContentView.swift */,
+				8AFE170E2947A9D000077953 /* Model */,
+				8AFE17132947AA0800077953 /* View */,
 				8AFE16FE2947A93700077953 /* Assets.xcassets */,
 				8AFE17002947A93700077953 /* Preview Content */,
 			);
@@ -65,6 +71,22 @@
 				8AFE17012947A93700077953 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8AFE170E2947A9D000077953 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				8AFE170C2947A9CC00077953 /* BooK.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		8AFE17132947AA0800077953 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				8AFE170F2947A9EB00077953 /* Home.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,6 +161,8 @@
 			files = (
 				8AFE16FD2947A93600077953 /* ContentView.swift in Sources */,
 				8AFE16FB2947A93600077953 /* BookUIAppApp.swift in Sources */,
+				8AFE17102947A9EB00077953 /* Home.swift in Sources */,
+				8AFE170D2947A9CC00077953 /* BooK.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
