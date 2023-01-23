@@ -3,9 +3,13 @@
 SwiftUI for Books 
 
 
-Demo for the App 
 
-<h3><img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/116716645/214116046-3eaf39e4-5f13-4423-a7d0-9008d46ea40e.png"> <br/>  </h3>   
+<h3><img align="left" width="800" height="800" src=""> <br/>  </h3>   
 
 
+<img width="957" alt="Screenshot 1444-07-01 at 9 17 01 PM" src="https://user-images.githubusercontent.com/116716645/214118136-2a2cd375-d5e8-465d-8402-e0558d1c8cfa.png">
+
+
+
+https://user-images.githubusercontent.com/116716645/214118112-0c18a939-0194-4ca6-851b-2374e90b133a.mp4
 
