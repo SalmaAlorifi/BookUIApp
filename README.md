@@ -1,6 +1,6 @@
 # BookUIApp
 
-SwiftUI for Books with animation 
+Simple swiftUI for Books with animation 
 
 
 ## App Overview :
